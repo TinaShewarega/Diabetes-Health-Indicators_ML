@@ -16,4 +16,4 @@ Which model can most accurately determine the factors (top 3) that predict wheth
 - Decision Tree Classifier
 - Neural Network: Multi-Layer Perceptron
 
-**For all models, we did an 80-20 train-test split.**
+**For all models, an 80-20 train-test split.**
