@@ -6,3 +6,14 @@ Dataset link: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicat
 
 Using this dataset, we want to answer the following question:
 Which model can most accurately determine the factors (top 3) that predict whether an individual has diabetes or not?
+
+## Models utilized:
+- K-Nearest Neighbors (KNN)
+- LASSO Regression
+- Best Subset Selection
+- Forward Selection
+- Principal Component Regression (PCR)
+- Decision Tree Classifier
+- Neural Network: Multi-Layer Perceptron
+
+**For all models, we did an 80-20 train-test split.**
