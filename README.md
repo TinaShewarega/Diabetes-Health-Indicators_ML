@@ -12,7 +12,7 @@ Which model can most accurately determine the factors (top 3) that predict wheth
 - LASSO Regression
 - Best Subset Selection
 - Forward Selection
-- Principal Component Regression (PCR)
+- Principal Component Analysis
 - Decision Tree Classifier
 - Neural Network: Multi-Layer Perceptron
 
